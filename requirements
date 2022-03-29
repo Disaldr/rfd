@@ -1,0 +1,4 @@
+inquirer
+python-dotenv
+PyGithub
+tqdm
